@@ -1,0 +1,31 @@
+{
+  "name": "stylus-export-loader",
+  "version": "1.0.0",
+  "description": "Export stylus variables in a javascript object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "PBRT"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.2",
+    "path": "0.12.7",
+    "stylus": "0.52.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PBRT/stylus-export-loader"
+  },
+  "keywords": [
+    "react"
+  ],
+  "readme": "ERROR: No README data found!",
+  "_id": "stylus-export-loader@1.0.0",
+  "_shasum": "7d57152a9070ef011325d9f24f3e1c2acf6e8406",
+  "_from": "../stylus-export-loader",
+  "_resolved": "file:../stylus-export-loader"
+}
